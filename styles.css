@@ -1,0 +1,24 @@
+:root{
+
+    --primary-color: #FFFFFF;
+    --heading-color: #333333;
+    --paragraf-color:#494949;
+    --btn-primary-fill: #0099FF;
+    --btn-secunday-text:#0099FF;
+    --skyblue: #E5F5FF;
+
+
+
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+
